@@ -1,4 +1,5 @@
-# New Project
+# First-Snowpack-App
+Snowpack is a frontend build tool, replacement for Webpack. AMAZING number of templates available at [https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/cli](https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/cli) and wider support than Vite with community templates as well.
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
